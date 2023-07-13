@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, tudo bem ?! 
+Me chamo Sabrina, e estou iniciando os estudos em html e css. 
 
-<!--
-**SabrinaPaschini/SabrinaPaschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&theme=panda&show_icons=true)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>Contato</strong></p>
+<a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" align="center" heigth="50" width="60" />
+  
+<p><strong>Linguagem</strong></p><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="center" heigth="50" width="60"/>
+          
