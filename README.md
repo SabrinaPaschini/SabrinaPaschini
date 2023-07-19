@@ -7,8 +7,10 @@ Me chamo Sabrina, e estou iniciando meus estudos em programação, já estou apr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact)
 
 
-<a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/">
+<a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/">         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"> 
+<a href="https://www.instagram.com/sabrinapaschini/">
+<img src="https://img.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg?w=360" align="center" heigth="50" width="60">          
 </a>
 <hr>
 
