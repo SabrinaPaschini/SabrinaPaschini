@@ -1,6 +1,10 @@
 ## Olá, tudo bem ?! 
 
-Me chamo Sabrina, e estou iniciando meus estudos em programação, já estou aprendendo html, css, javascript e python. 
+Me chamo Sabrina,  
+
+Atuei por 8 anos como engenheira eletrônica autodidata, realizando a construção de equipamentos eletrônicos na área do áudio, como sintetizadores analógicos e sirenes.
+
+No momento, estou iniciando meus estudos em programação, já estou aprendendo html, css, javascript e python.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&theme=panda&show_icons=true)
 
