@@ -6,6 +6,11 @@ Atuei por 8 anos como engenheira eletrônica autodidata, realizando a construç�
 
 No momento, estou iniciando meus estudos em programação, já estou aprendendo html, css, javascript e python.
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sabrinapaschini&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sabrinapaschini&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapaschini)](https://github.com/SabrinaPaschini/github-readme-stats)
+
 
 
 <a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/" target="blank">         
