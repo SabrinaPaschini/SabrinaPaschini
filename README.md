@@ -8,8 +8,8 @@ No momento, estou iniciando meus estudos em programação, já estou aprendendo 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&theme=panda&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact)
-
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))
+)
 
 <a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/" target="blank">         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"> 
