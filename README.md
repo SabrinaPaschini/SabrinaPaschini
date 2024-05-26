@@ -1,8 +1,8 @@
- ##  :sparkles: Olá, tudo bem ?!  :v: :sunglasses:
+- ##  :sparkles: Olá, tudo bem ?!  :v: :sunglasses:
 
 - Me chamo Sabrina :seedling: :computer:
 
-Atuei por 8 anos como engenheira eletrônica autodidata, realizando a construção de equipamentos eletrônicos na área do áudio, como sintetizadores analógicos e sirenes. :sound::musical_note:
+Atuei por 5 anos como engenheira eletrônica autodidata, realizando a construção de equipamentos eletrônicos na área do áudio, como sintetizadores analógicos e sirenes. :sound::musical_note:
 
 - No momento, estou iniciando meus estudos em programação, já estou aprendendo *html, css, javascript.*.:dart:
 ***
