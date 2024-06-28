@@ -1,34 +1,38 @@
-- ##  :sparkles: Olá, tudo bem ?!  :v: :sunglasses:
+# Olá, tudo bem? :sparkles: :v: :sunglasses:
 
-- Me chamo Sabrina :seedling: :computer:
+Meu nome é Sabrina :seedling: :computer:. 
 
-Atuei por 5 anos como engenheira eletrônica autodidata, realizando a construção de equipamentos eletrônicos na área do áudio, como sintetizadores analógicos e sirenes. :sound::musical_note:
+Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade FMU, atualmente no 2º semestre.
 
-- No momento, estou iniciando meus estudos em programação, já estou aprendendo *html, css, javascript.*.:dart:
-***
-  
+## Experiência
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sabrinapaschini&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+Tenho experiência autodidata de 5 anos como engenheira eletrônica, especializada na construção de equipamentos como sintetizadores analógicos e sirenes na área de áudio.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapaschini)](https://github.com/SabrinaPaschini/github-readme-stats)
+## Cursos e Desenvolvimento
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="center" heigth="50" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="center" heigth="50" width="60"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" heigth="50" align="center" width="60"/>
-</div>
+Atualmente, estou focada em cursos técnicos na área de desenvolvimento web, especialmente no front-end. 
 
+## Objetivo
 
-***
+- Estou atualmente em busca de oportunidades na área de desenvolvimento web e TI, onde posso aplicar e expandir meus conhecimentos. 
+- Estou comprometida em contribuir de forma significativa em projetos desafiadores e colaborativos.
 
+## Tecnologias Aprendidas
 
-
-<a href="https://www.linkedin.com/in/sabrina-paschini-55495b180/" target="blank">         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"> 
-<a href="https://www.instagram.com/sabrinapaschini/" target="blank">
-<img src="https://img.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg?w=360" align="center" heigth="50" width="60">          
-</a>
-
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- Git
+- GitHub
 
 
+## Linguagens mais Utilizadas
 
-          
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapaschini)](https://github.com/SabrinaPaschini/github-readme-stats)
+
+## Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/sabrina-paschini-55495b180/)
+- [Instagram](https://www.instagram.com/sabrinapaschini/)
