@@ -4,6 +4,8 @@ Meu nome é Sabrina :seedling: :computer:.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade FMU, atualmente no 2º semestre.
 
+Meu Portfólio : https://sabrinapaschini.github.io/portfolio-sabrina-p/
+
 ## Experiência
 
 Tenho experiência autodidata de 5 anos como engenheira eletrônica, especializada na construção de equipamentos como sintetizadores analógicos e sirenes na área de áudio.
