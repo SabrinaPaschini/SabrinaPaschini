@@ -2,7 +2,7 @@
 
 Meu nome é Sabrina :seedling: :computer:. 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade FMU, atualmente no 2º semestre.
+Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade FMU, atualmente no 3º semestre.
 
 Meu Portfólio : https://sabrinapaschini.github.io/portfolio-sabrina-p/
 
