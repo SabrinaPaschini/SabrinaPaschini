@@ -1,5 +1,5 @@
 <h1 align="center">🌿 Sabrina Paschini 🌱</h1>
-<p align="center">💻 Desenvolvedora em formação • Apaixonada por tecnologia e natureza 🍃</p>
+<p align="center">💻 Desenvolvedora em formação • Apaixonada por tecnologia🍃</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=43c17e&lines=Estudante+de+ADS+%7C+3%C2%BA+semestre;Desenvolvedora+Web+em+formação;Amante+de+hardware+e+eletrônica;Construindo+meus+projetos+com+paixão" />
