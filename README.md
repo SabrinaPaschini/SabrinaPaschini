@@ -1,40 +1,61 @@
-# Olá, tudo bem? :sparkles: :v: :sunglasses:
+<h1 align="center">🌿 Sabrina Paschini 🌱</h1>
+<p align="center">💻 Desenvolvedora em formação • Apaixonada por tecnologia e natureza 🍃</p>
 
-Meu nome é Sabrina :seedling: :computer:. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=43c17e&lines=Estudante+de+ADS+%7C+3%C2%BA+semestre;Desenvolvedora+Web+em+formação;Amante+de+hardware+e+eletrônica;Construindo+meus+projetos+com+paixão" />
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade FMU, atualmente no 3º semestre.
+---
 
-Meu Portfólio : https://sabrinapaschini.github.io/portfolio-sabrina-p/
+### 🌼 Sobre mim
 
-## Experiência
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — *FMU (3º semestre)*
+- ⚡ Experiência com **eletrônica analógica**, construção de sintetizadores e sirenes
+- 🛠️ Meus projetos unem **tecnologia** e **criatividade**
+- 🎯 Em busca de oportunidade para crescer como desenvolvedora **Front-End** ou **FullStack**
 
-Tenho experiência autodidata de 5 anos como engenheira eletrônica, especializada na construção de equipamentos como sintetizadores analógicos e sirenes na área de áudio.
+---
 
-## Cursos e Desenvolvimento
+### 🌱 Tecnologias que cultivo
 
-Atualmente, estou focada em cursos técnicos na área de desenvolvimento web, especialmente no front-end. 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Objetivo
+---
 
-- Estou atualmente em busca de oportunidades na área de desenvolvimento web e TI, onde posso aplicar e expandir meus conhecimentos. 
-- Estou comprometida em contribuir de forma significativa em projetos desafiadores e colaborativos.
+### 🌼 Portfólio
 
-## Tecnologias Aprendidas
+📁 Meu portfólio online:  
+🔗 [https://sabrinapaschini.github.io/portfolio-sabrina-p/](https://sabrinapaschini.github.io/portfolio-sabrina-p/)
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
-- Git
-- GitHub
+---
 
+### 💡 Projetos em destaque
 
-## Linguagens mais Utilizadas
+- 📊 **Sell Controller** – controle de vendas com relatórios e indicadores Friedman  
+- 📦 **Estoque de Componentes** – cadastro dinâmico com Angular + Node.js + PostgreSQL
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapaschini)](https://github.com/SabrinaPaschini/github-readme-stats)
+---
 
-## Redes Sociais
+### 🔗 Me encontre por aí:
 
-- [LinkedIn](https://www.linkedin.com/in/sabrina-paschini-55495b180/)
-- [Instagram](https://www.instagram.com/sabrinapaschini/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-43c17e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-8dcd94?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&icon_color=43c17e&text_color=8dcd94" alt="GitHub Stats"/>
+</p>
+
+---
+
+🧪 *"A mente curiosa floresce entre códigos e raízes."*
+
+---
+
