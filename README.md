@@ -44,8 +44,8 @@
 
 ### 🔗 Me encontre por aí:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-43c17e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-8dcd94?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-43c17e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-paschini/)
+[![Instagram](https://img.shields.io/badge/-Instagram-8dcd94?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myself.022/)
 
 ---
 
