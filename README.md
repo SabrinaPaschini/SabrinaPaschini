@@ -1,61 +1,132 @@
 <h1 align="center">🌿 Sabrina Paschini 🌱</h1>
-<p align="center">💻 Desenvolvedora em formação • Apaixonada por tecnologia🍃</p>
+<p align="center">💻 Analista de Sustentação Jr • Desenvolvedora em formação</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=43c17e&lines=Estudante+de+ADS+%7C+3%C2%BA+semestre;Desenvolvedora+Web+em+formação;Amante+de+hardware+e+eletrônica;Construindo+meus+projetos+com+paixão" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=43c17e&lines=Estudante+de+ADS+(último+semestre);Backend+em+formação+com+.NET;Construindo+APIs+e+sistemas;Amante+de+hardware+e+eletrônica" />
 </p>
 
 ---
 
-### 🌼 Sobre mim
+## 🌼 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — *FMU (3º semestre)*
-- ⚡ Experiência com **eletrônica analógica**, construção de sintetizadores e sirenes
-- 🛠️ Meus projetos unem **tecnologia** e **criatividade**
-- 🎯 Em busca de oportunidade para crescer como desenvolvedora **Front-End** ou **FullStack**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas — FMU (último semestre)**  
 
----
+💻 Atualmente trabalho como **Analista de Sustentação Jr**, atuando com investigação de problemas, análise de sistemas e suporte técnico em ambiente corporativo.
 
-### 🌱 Tecnologias que cultivo
+🌿 Tenho grande interesse por **tecnologia, hardware e eletrônica**, com experiência prática na construção de circuitos analógicos como sintetizadores e sirenes.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+🚀 Estou focada em evoluir como **desenvolvedora backend e fullstack**, estudando **C#, .NET, APIs, bancos de dados e boas práticas de desenvolvimento**.
 
 ---
 
-### 🌼 Portfólio
+# 🌱 Tecnologias que cultivo
 
-📁 Meu portfólio online:  
-🔗 [https://sabrinapaschini.github.io/portfolio-sabrina-p/](https://sabrinapaschini.github.io/portfolio-sabrina-p/)
+### 💻 Frontend
 
----
-
-### 💡 Projetos em destaque
-
-- 📊 **Sell Controller** – controle de vendas com relatórios e indicadores Friedman  
-- 📦 **Estoque de Componentes** – cadastro dinâmico com Angular + Node.js + PostgreSQL
+![HTML](https://img.shields.io/badge/HTML5-2d6a4f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-40916c?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-74c69d?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-52b788?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1b4332?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
-### 🔗 Me encontre por aí:
+### ⚙️ Backend
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-43c17e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-paschini/)
+![Node.js](https://img.shields.io/badge/Node.js-40916c?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2d6a4f?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1b4332?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-344e41?style=for-the-badge)
+
+---
+
+### 🗄️ Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40916c?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2d6a4f?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🧰 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-40916c?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1b4332?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-2d6a4f?style=for-the-badge&logo=swagger&logoColor=white)
+
+---
+
+# 🌼 Projetos em desenvolvimento
+
+📦 **API CRUD de Contatos**
+
+- ASP.NET Core  
+- Entity Framework  
+- SQL Server  
+- Swagger  
+
+🏨 **Sistema de Hospedagem (C#)**  
+
+Projeto para prática de **orientação a objetos, classes, construtores e lógica de negócio**.
+
+📊 **Sell Controller**
+
+Sistema para controle de vendas com indicadores comerciais.
+
+---
+
+# 🌿 O que estou estudando atualmente
+
+📚 **C# e .NET**
+
+- Sintaxe e organização de programas  
+- Classes e construtores  
+- Orientação a objetos  
+- Controllers em APIs  
+- Entity Framework  
+- Migrations  
+- Integração com banco SQL Server  
+
+🗄️ **Banco de dados**
+
+- SQL Server  
+- Modelagem de dados  
+- CRUD em APIs  
+
+---
+
+# 🌼 Portfólio
+
+🔗  
+https://sabrinapaschini.github.io/portfolio-sabrina-p/
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&show_icons=true&theme=gruvbox&hide_border=true&icon_color=43c17e"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact&theme=gruvbox&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Consistência de código
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrinaPaschini&theme=gruvbox&hide_border=true"/>
+</p>
+
+---
+
+# 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-43c17e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-paschini)
+
 [![Instagram](https://img.shields.io/badge/-Instagram-8dcd94?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myself.022/)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&icon_color=43c17e&text_color=8dcd94" alt="GitHub Stats"/>
-</p>
-
----
-
-🧪 *"A mente curiosa floresce entre códigos e raízes."*
-
----
-
+🌱 *"Entre circuitos, códigos e curiosidade, sigo cultivando conhecimento."*
