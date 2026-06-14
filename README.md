@@ -1,9 +1,7 @@
 <h1 align="center">🌿 Sabrina Paschini 🌱</h1>
 <p align="center">💻 Analista de Sustentação Jr • Desenvolvedora em formação</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=43c17e&lines=Estudante+de+ADS+(último+semestre);Backend+em+formação+com+.NET;Construindo+APIs+e+sistemas;Amante+de+hardware+e+eletrônica" />
-</p>
+
 
 ---
 
