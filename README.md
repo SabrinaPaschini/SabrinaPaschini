@@ -8,11 +8,11 @@ Analista de Sustentação Jr • Desenvolvedora Backend .NET
 
 ## Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas (FMU)** e atuo como **Analista de Sustentação Jr**, trabalhando com investigação de incidentes, análise de sistemas, banco de dados e evolução de aplicações corporativas.
+Sou formada em **Análise e Desenvolvimento de Sistemas (FMU)** e atuo como **Analista de Sustentação Jr**, trabalhando com manutenção, evolução e suporte de sistemas corporativos.
 
-Tenho experiência com **C#, .NET, SQL Server, APIs REST e desenvolvimento de soluções backend**, buscando evoluir continuamente na construção de aplicações escaláveis, organizadas e eficientes.
+Tenho foco em desenvolvimento **Backend com C# e .NET**, buscando aprimorar meus conhecimentos em arquitetura de aplicações, APIs, banco de dados e boas práticas de programação.
 
-Também possuo interesse por **hardware e eletrônica**, com experiência prática em projetos envolvendo circuitos analógicos e desenvolvimento de dispositivos.
+Atualmente desenvolvo projetos utilizando **C#, ASP.NET, SQL Server e tecnologias do ecossistema .NET**, sempre buscando evoluir como desenvolvedora.
 
 ---
 
@@ -23,20 +23,17 @@ Também possuo interesse por **hardware e eletrônica**, com experiência práti
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Banco de Dados
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 
@@ -46,74 +43,42 @@ Também possuo interesse por **hardware e eletrônica**, com experiência práti
 
 ---
 
-## Projetos
+## Projeto em desenvolvimento
 
-### 🚗 SSP Vehicles
+### 🚗 SSP Vehicles — Sistema de Concessionária
 
-Sistema de gerenciamento de veículos desenvolvido com:
+Aplicação web desenvolvida para gerenciamento de veículos, utilizando arquitetura MVC.
+
+Tecnologias utilizadas:
 
 - C#
 - ASP.NET MVC
 - Dapper
 - SQL Server
 - Stored Procedures
+- CRUD de veículos
 
-Projeto desenvolvido para prática de arquitetura MVC, integração com banco de dados e operações CRUD.
-
----
-
-### 📦 API CRUD de Contatos
-
-API desenvolvida utilizando:
-
-- ASP.NET Core
-- Entity Framework
-- SQL Server
-- Swagger
-
-Aplicação para prática de criação de APIs REST, persistência de dados e organização de camadas.
+O projeto tem como objetivo aplicar conceitos de desenvolvimento backend, integração com banco de dados, organização de camadas e boas práticas de programação.
 
 ---
 
-### 🏨 Sistema de Hospedagem
+## Conhecimentos em desenvolvimento
 
-Projeto em C# focado em:
-
-- Programação Orientada a Objetos
-- Classes e construtores
-- Encapsulamento
-- Regras de negócio
-
----
-
-## Atualmente estudando
-
-- C# e .NET
+- C# e orientação a objetos
+- ASP.NET MVC
 - APIs REST
-- Arquitetura de aplicações
-- Entity Framework
-- Dapper
 - SQL Server
-- Boas práticas de desenvolvimento
-- Design de software
+- Modelagem de dados
+- Stored Procedures
+- Dapper
+- Entity Framework
+- Git e controle de versão
 
 ---
 
 ## Portfólio
 
 🔗 https://sabrinapaschini.github.io/portfolio-sabrina-p/
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaPaschini&show_icons=true&theme=gruvbox&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPaschini&layout=compact&theme=gruvbox&hide_border=true"/>
-
-</p>
 
 ---
 
